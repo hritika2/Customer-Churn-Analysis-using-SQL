@@ -5,13 +5,13 @@ This project focuses on analyzing customer churn to uncover key insights that he
 # Project Strategy
 The main steps for this project are:
 
-Data Cleaning and Preparation
+- Data Cleaning and Preparation
 
-Exploratory Data Analysis
+- Exploratory Data Analysis
 
-Data Insights
+- Data Insights
 
-Customer Retention Strategies
+- Customer Retention Strategies
 
 # Insights
 
@@ -34,13 +34,13 @@ Customer Retention Strategies
 
 # Customer Retention Strategies
 
-Loyalty Programs: Since the top reason for churn is ‘competitors making better offers’ , and more than half of churned customers did not have any promotional offers, Maven could implement different loyalty programs to retain their customers. For instance, they could reward customers on long-term contracts with discounted rates, free upgrade, or additional features.
+- Loyalty Programs: Since the top reason for churn is ‘competitors making better offers’ , and more than half of churned customers did not have any promotional offers, Maven could implement different loyalty programs to retain their customers. For instance, they could reward customers on long-term contracts with discounted rates, free upgrade, or additional features.
 
-Improve Customer Support: Invest in training and development of support staff to ensure they provide excellent customer service. This could include regular coaching and feedback sessions, as well as incentives for staff who receive positive customer feedback.
+- Improve Customer Support: Invest in training and development of support staff to ensure they provide excellent customer service. This could include regular coaching and feedback sessions, as well as incentives for staff who receive positive customer feedback.
 
-Make better devices: Evaluate the features, performance and pricing of your devices to ensure they are in line with market standards and demand.
+- Make better devices: Evaluate the features, performance and pricing of your devices to ensure they are in line with market standards and demand.
 
-Premium Tech Support: Since customers who did not have access to premium tech support were more likely to churn, Maven should consider offering this service to all customers.
+- Premium Tech Support: Since customers who did not have access to premium tech support were more likely to churn, Maven should consider offering this service to all customers.
 
 Improve Fiber Optic Service: Invest in improving your Fiber Optic offerings like faster speeds, more stable connections, and better customer support for Fiber Optic customers.
 
