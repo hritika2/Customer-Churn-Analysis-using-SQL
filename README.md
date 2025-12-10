@@ -15,21 +15,21 @@ Customer Retention Strategies
 
 # Insights
 
-Maven has 1869 churned customers and 20% of them are high-value customers.
+- Maven has 1869 churned customers and 20% of them are high-value customers.
 
-42% of churned customers only stayed for 6 months or less.
+- 42% of churned customers only stayed for 6 months or less.
 
-The top 3 reasons for churn are competitors made better offers, competitors had better devices and attitude of support staff.
+- The top 3 reasons for churn are competitors made better offers, competitors had better devices and attitude of support staff.
 
-Maven lost ~$1.7 million to competitors, making it the most expensive type of churn
+- Maven lost ~$1.7 million to competitors, making it the most expensive type of churn
 
-The key indicators of churn are Month-to-Month contract , No Premium Tech Support, Fiber Optic internet, No promotional offer and Offer E.
+- The key indicators of churn are Month-to-Month contract , No Premium Tech Support, Fiber Optic internet, No promotional offer and Offer E.
 
-70% of customers who churned to competitors used Fiber Optic
+- 70% of customers who churned to competitors used Fiber Optic
 
-High value customers are churning at a rate of 23%
+- High value customers are churning at a rate of 23%
 
-Based on the key churn indicators, out of 1250 high-value customers remaining, 77% are at high risk of churning.
+- Based on the key churn indicators, out of 1250 high-value customers remaining, 77% are at high risk of churning.
 
 
 # Customer Retention Strategies
