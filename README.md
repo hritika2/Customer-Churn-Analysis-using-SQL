@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis-using-MySQL
-This project focuses on analyzing customer churn to uncover key insights that help businesses improve retention strategies. Using SQL, it explores customer behavior, churn patterns, and revenue impact through various queries and metrics.
+This project focuses on analyzing customer churn to uncover key insights that help businesses improve retention strategies. Using MySQL, it explores customer behavior, churn patterns, and revenue impact through various queries and metrics.
 
 
 # Project Strategy
