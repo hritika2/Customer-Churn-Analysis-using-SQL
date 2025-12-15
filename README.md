@@ -1,6 +1,12 @@
 # Customer-Churn-Analysis-using-MySQL
 This project focuses on analyzing customer churn to uncover key insights that help businesses improve retention strategies. Using MySQL, it explores customer behavior, churn patterns, and revenue impact through various queries and metrics.
 
+# Problem Statement
+
+Why are customers leaving Maven Telecom?
+- What are the key drivers of churn?
+- Is the company losing high value customers? If so, how can they retain them?
+- What steps can Maven Telecom take to reduce churn?
 
 # Project Strategy
 The main steps for this project are:
